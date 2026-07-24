@@ -175,7 +175,7 @@ export const teamMembers = [
   },
   {
     name: 'Ivan Ken Chua',
-    role: 'UI/UX Designer & Graphic Designer',
+    role: 'UI/UX & Graphic Designer',
     bio: 'Creative designer crafting intuitive interfaces, brand identities, and compelling visual assets that communicate clearly.',
     image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&q=80',
     github: '#',

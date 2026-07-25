@@ -7,10 +7,9 @@ export default function Projects() {
       <div className="container">
         <div className="section-header">
           <div className="section-label">Work</div>
-          <h2 className="section-title">Selected projects.</h2>
+          <h2 className="section-title"></h2>
           <p className="section-subtitle">
-            A look at what we have built. More projects coming as we continue to
-            grow.
+            As of now, we have no projects to showcase yet. 
           </p>
         </div>
 

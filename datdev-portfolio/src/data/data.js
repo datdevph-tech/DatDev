@@ -196,8 +196,8 @@ export const teamMembers = [
     role: 'Web/Mobile Developer',
     bio: 'Developer specializing in creating performant web and mobile applications with clean, maintainable code.',
     image: '/joshuaromanorico.png',
-    github: '#',
-    linkedin: '#',
+    github: 'https://github.com/josh112703',
+    linkedin: 'https://www.linkedin.com/in/joshua-romano-rico-5054a03a6/',
    
   },
 ]
@@ -250,5 +250,5 @@ export const socialLinks = {
   linkedin: '#',
   email: 'datdev.ph@gmail.com',
   phone: '+63 993 056 1934',
-  location: 'Divine Word College of Legazpi, Legazpi City, Philippines',
+  location: '',
 }

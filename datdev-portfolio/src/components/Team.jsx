@@ -26,7 +26,6 @@ export default function Team() {
               <div className="team-social">
                 <a href={m.github} aria-label="GitHub" target="_blank" rel="noreferrer"><FaGithub /></a>
                 <a href={m.linkedin} aria-label="LinkedIn" target="_blank" rel="noreferrer"><FaLinkedin /></a>
-                <a href={m.twitter} aria-label="X (Twitter)" target="_blank" rel="noreferrer"><FaTwitter /></a>
               </div>
             </div>
           ))}

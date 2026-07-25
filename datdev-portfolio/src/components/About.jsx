@@ -2,7 +2,7 @@ import { FaCode, FaUsers, FaCalendar } from 'react-icons/fa'
 
 const stats = [
   { icon: FaCalendar, value: '2026', label: 'Founded' },
-  { icon: FaUsers, value: '4+', label: 'Team Members' },
+  { icon: FaUsers, value: '4', label: 'Members' },
   { icon: FaCode, value: '0', label: 'Projects' },
 ]
 

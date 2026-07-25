@@ -2,7 +2,7 @@ import {
   FaCode, FaMobileAlt, FaPaintBrush, FaPenFancy, FaLightbulb, FaHandshake,
   FaRocket, FaShieldAlt, FaSeedling, FaSearch, FaProjectDiagram, FaPencilRuler,
   FaCogs, FaVial, FaCloudUploadAlt, FaArrowRight, FaQuoteLeft, FaGithub,
-  FaLinkedin, FaTwitter, FaEnvelope, FaMapMarkerAlt, FaPhone, FaChevronRight,
+  FaLinkedin,  FaEnvelope, FaMapMarkerAlt, FaPhone, FaChevronRight,
   FaCheckCircle, FaUsers, FaClipboardList, FaLayerGroup, FaStar, FaHeart,
 } from 'react-icons/fa'
 
@@ -166,63 +166,39 @@ export const projects = [
 export const teamMembers = [
   {
     name: 'Bradley Soloria',
-    role: 'Full-Stack Developer',
-    bio: 'Full-stack developer with a passion for building scalable web applications and seamless user experiences.',
-    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80',
-    github: '#',
-    linkedin: '#',
-    twitter: '#',
+    role: 'Web Developer',
+    bio: 'Developer with a passion for building scalable web applications and seamless user experiences.',
+    image: '/bradleysoloria.JPG',
+    github: 'https://github.com/airolo',
+    linkedin: 'https://www.linkedin.com/in/bradleysoloria/',
+   
   },
   {
     name: 'Ivan Ken Chua',
     role: 'UI/UX & Graphic Designer',
     bio: 'Creative designer crafting intuitive interfaces, brand identities, and compelling visual assets that communicate clearly.',
-    image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&q=80',
-    github: '#',
-    linkedin: '#',
-    twitter: '#',
+    image: '/ivankenchua.jpg',
+    github: 'https://github.com/BanDapol',
+    linkedin: 'https://www.linkedin.com/in/ivankenchua/',
+   
   },
   {
     name: 'Leenard Asejo',
     role: 'Web/Mobile Developer',
     bio: 'Developer focused on building responsive web applications and cross-platform mobile experiences.',
-    image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80',
+    image: '/leenardasejo.png',
     github: '#',
     linkedin: '#',
-    twitter: '#',
+   
   },
   {
     name: 'Joshua Romano Rico',
     role: 'Web/Mobile Developer',
     bio: 'Developer specializing in creating performant web and mobile applications with clean, maintainable code.',
-    image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&q=80',
+    image: '/joshuaromanorico.png',
     github: '#',
     linkedin: '#',
-    twitter: '#',
-  },
-]
-
-export const testimonials = [
-  {
-    quote:
-      'DatDev transformed our online presence with a stunning website that perfectly captures our brand. Their attention to detail and professionalism exceeded our expectations.',
-    author: 'Client Name',
-    role: 'CEO, Company Name',
-    avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&q=80',
-  },
-  {
-    quote:
-      'Working with the DatDev team was an incredible experience. They delivered our mobile app on time and within budget, and the quality is outstanding.',
-    author: 'Client Name',
-    role: 'Founder, Startup Name',
-    avatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&q=80',
-  },
-  {
-    quote:
-      'The UI/UX design DatDev created for our platform received rave reviews from our users. Their user-centered approach made all the difference.',
-    author: 'Client Name',
-    role: 'Product Manager, Company Name',
-    avatar: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&q=80',
+   
   },
 ]
 
@@ -235,7 +211,7 @@ export const faqs = [
   {
     question: 'How long does a typical project take?',
     answer:
-      'Project timelines vary depending on scope and complexity. A simple website may take 2-4 weeks, while more complex applications can take 2-4 months. We provide detailed timelines during the planning phase.',
+      'Project timelines vary depending on scope and complexity. A simple website may take 1-2 weeks, while more complex applications can take 2-4 months. We provide detailed timelines during the planning phase.',
   },
   {
     question: 'How much do your services cost?',
@@ -272,7 +248,6 @@ export const faqs = [
 export const socialLinks = {
   github: '#',
   linkedin: '#',
-  twitter: '#',
   email: 'hello@datdev.com',
   phone: '+63 XXX XXX XXXX',
   location: 'Divine Word College of Legazpi, Legazpi City, Philippines',

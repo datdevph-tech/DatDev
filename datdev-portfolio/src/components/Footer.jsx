@@ -19,8 +19,6 @@ export default function Footer() {
             </p>
             <div className="footer-social">
               <a href={socialLinks.github} aria-label="GitHub" target="_blank" rel="noreferrer"><FaGithub /></a>
-              <a href={socialLinks.linkedin} aria-label="LinkedIn" target="_blank" rel="noreferrer"><FaLinkedin /></a>
-              <a href={socialLinks.twitter} aria-label="X (Twitter)" target="_blank" rel="noreferrer"><FaTwitter /></a>
               <a href={`mailto:${socialLinks.email}`} aria-label="Email" target="_blank" rel="noreferrer"><FaEnvelope /></a>
             </div>
           </div>
@@ -55,7 +53,6 @@ export default function Footer() {
 
         <div className="footer-bottom">
           <span>&copy; {new Date().getFullYear()} DatDev. All rights reserved.</span>
-          <span>Made with care by DatDev</span>
         </div>
       </div>
 

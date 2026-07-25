@@ -187,8 +187,8 @@ export const teamMembers = [
     role: 'Web/Mobile Developer',
     bio: 'Developer focused on building responsive web applications and cross-platform mobile experiences.',
     image: '/leenardasejo.png',
-    github: '#',
-    linkedin: '#',
+    github: 'https://github.com/khiliver',
+    linkedin: 'https://www.linkedin.com/in/leenard-asejo/',
    
   },
   {
@@ -246,9 +246,9 @@ export const faqs = [
 ]
 
 export const socialLinks = {
-  github: '#',
+  github: 'https://github.com/datdevph-tech',
   linkedin: '#',
-  email: 'hello@datdev.com',
-  phone: '+63 XXX XXX XXXX',
+  email: 'datdev.ph@gmail.com',
+  phone: '+63 993 056 1934',
   location: 'Divine Word College of Legazpi, Legazpi City, Philippines',
 }
